@@ -34,6 +34,7 @@ under the License.
   <modules>
     <module>wagon-file</module>
     <module>wagon-ftp</module>
+    <module>wagon-ftps</module>
     <module>wagon-http</module>
     <module>wagon-http-shared</module>
     <module>wagon-http-lightweight</module>
